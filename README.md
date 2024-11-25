@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my own skills and interests.<br>🌱 I’m currently learning the ropes of live.<br>⚡ Fun fact - imposter syndrome is a real thing
+🔭 I’m currently working on developing my own skills and interests.<br>🌱 I’m currently learning the ropes of life.<br>⚡ Fun fact - imposter syndrome is a real thing
 
 
 # 💻 Tech Stack:
